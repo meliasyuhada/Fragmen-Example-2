@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ebookdescriptions">
+        <item>
+            """How to use banana choclate, first menyediakan satu sisir pisang raja, choclate, susu kental manis, margarin dan keju. second menyediakan alat-alatnya. tried dan sebagainya"""
+        </item>
+        <item>
+            """Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius aperiam quia deserunt necessitatibus labore ad minima alias, fugit hic ducimus."""
+        </item>
+        <item>
+             """Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque ipsa praesentium commodi tenetur corporis sint impedit neque porro quis, vel dolor esse illum totam iste aut necessitatibus nihil earum saepe adipisci iusto quas odit qui! Saepe provident beatae error odio unde? Dignissimos ea eum neque fugiat at? Quae, accusamus natus!"""
+        </item>
+    </string-array>
+</resources>

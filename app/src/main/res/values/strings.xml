@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentExample2</string>
+    <string name="learn_android_studio_3">Learn Android Studio 3</string>
+    <string name="learn_android_studio_3_with_kotlin">Learn Android Studio 3 with Kotlin</string>
+    <string name="minimum_android_programming">Minimum Android Programming</string>
+</resources>
